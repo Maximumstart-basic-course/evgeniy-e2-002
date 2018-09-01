@@ -1,7 +1,7 @@
 # Базовый курс веб-разработки
 
-* Студент:  `undefined`.
-* Ментор: `undefined`.
+* Студент:  Duzhikov Evgenii.
+* Ментор: Pasha Knyazevich.
 * План занятий: [нате](https://docs.google.com/document/d/1e6PG06nszODebSn5DsqBsG6AujbXoKmqj1drDsoQElM/edit?usp=sharing).
 * Требования к выпускному проекту: [тут](https://docs.google.com/document/d/16VOU_viRMtN2wBW6nv_2rGkjsI8PiBILPVwKOMp-vMs/edit?usp=sharing).
 * Основные репозитории: [здесь](https://github.com/Maximumstart-basic-course).
@@ -9,7 +9,7 @@
 
 ## Проходил "Начальный курс веб-разработки"?
 
-`undefined`
+Duzhikov Evgenii
 
 ---
 
