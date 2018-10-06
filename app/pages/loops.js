@@ -16,19 +16,19 @@ const age = +prompt('Сколько тебе лет?', '12');
 
 switch (age) {
   case 12:
-    console.log(alert('Слишком мало :('));
+    console.log('Слишком мало :(');
     break;
 
   case 16:
-    console.log(alert('Почти достаточно :['));
+    console.log('Почти достаточно :[');
     break;
 
   case 18:
-    console.log(alert('Вот сейчас в самый раз! :)'));
+    console.log('Вот сейчас в самый раз! :)');
     break;
 
   default:
-    console.log(alert('Возраст не определен %)'));
+    console.log('Возраст не определен %)');
 }
 
 const foo = prompt('Введите логин');
